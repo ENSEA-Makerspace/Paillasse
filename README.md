@@ -8,7 +8,7 @@
   
   🖼️ Le portefolio associé au projet se trouve juste **[ici](https://nelthb.notion.site/Stage-1A-FabLab-Makerspace-4b8a7bd95b364fb7ac839f11d980228e)**
 
-  Le CAD présent dans le portefolio se trouve directement **[ici](https://cad.onshape.com/documents/0a7e2e7affff46ac82cd399c/w/ab4ce59a14a3cbb2950d96bb/e/9b30afab1070ad03ef75e880?renderMode=0&uiState=68dd227cd5e888e26c9e81c6)**
+  Le CAD présent dans le portefolio se trouve directement **[ici](https://cad.onshape.com/documents/0a7e2e7affff46ac82cd399c/w/ab4ce59a14a3cbb2950d96bb/e/9b30afab1070ad03ef75e880?renderMode=0&leftPanel=false&uiState=68dd237cd5e888e26c9e8714)**
   
 </div>
 
