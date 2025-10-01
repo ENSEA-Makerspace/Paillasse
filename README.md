@@ -29,6 +29,8 @@
   Par ![Badge](https://img.shields.io/badge/Matis%20GARBEZ-blue) 
  et ![Badge](https://img.shields.io/badge/Nelven%20THEBAULT-blue) supervisés par ![Badge](https://img.shields.io/badge/Cédric%20BLEIMLING-darkgreen).
 
+ Liens vers le compte rendu ![ici](https://nelthb.notion.site/754509c932134c3ebd9d55e74b91807b?pvs=25#bbd4ef64d4b04cf699826f9cdbd59d9d).
+
   **`📑 Quoi comme spécificités ?`**
 
   **📏 Chiffres clés :** $150\times76,8\times156,6\text{ cm}$ $(L\times P\times H)$ avec comme épaisseur des planches $1,8\text{ cm}$ et le plan de travail est doublé.
